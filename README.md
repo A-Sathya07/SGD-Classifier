@@ -37,8 +37,8 @@ End
 ## Program:
 ```python
 Program to implement the prediction of iris species using SGD Classifier.
-Developed by: SUDHARSAN U
-RegisterNumber: 212225040433
+Developed by: A Sathya Narayanan
+RegisterNumber: 212225040392
 
 import numpy as np
 import pandas as pd
